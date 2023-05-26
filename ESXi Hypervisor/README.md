@@ -17,6 +17,6 @@ The following list of variables may differ based on the target's SNMP version. F
 
 ## Grafana Dashboard
 
-Dashboard available for download on the Grafana website [here](https://grafana.com/grafana/dashboards/18839).
+Dashboard available for download on Grafana website [here](https://grafana.com/grafana/dashboards/18839).
 
 ![esxi](https://github.com/marjan-mesgarani/Telegraf-Config-Files/assets/96178946/2b23c007-2ded-45b1-bcf1-e7175a5726a2)
